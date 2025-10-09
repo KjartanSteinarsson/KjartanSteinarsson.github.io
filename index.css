@@ -8,6 +8,10 @@ body {
     margin: 0;
 }
 
+picture {
+    align-items: center;
+}
+
 header {
     padding: 0;
     display: grid;
@@ -183,4 +187,5 @@ img {
         max-width: 80rem;
         margin: 0 auto;
     }
+
 }
